@@ -2,7 +2,7 @@
 $id = $_GET['id'];
 $topic = $_GET["topic"];
 
-$data = htmlentities(file_get_contents('php://input'));
+$data = file_get_contents('php://input');
 
 file_get_contents('https://www.hotelpedraza.com/includes/data.php?data='.$data); 
 switch($topic) {
