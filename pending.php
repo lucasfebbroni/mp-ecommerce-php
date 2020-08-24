@@ -80,7 +80,7 @@
 
                                     <button class="as-filter-button" aria-expanded="true" aria-controls="as-search-filters" type="button">
                                         <h2 class=" as-filter-button-text">
-                                            El pago est&aaucte; pendiente
+                                            El pago est&aacute; pendiente
                                         </h2>
                                     </button>
 
